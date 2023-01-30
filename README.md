@@ -1,4 +1,4 @@
-# Carro Bluetoth - Universidad de El Salvador
+# Carro Bluetooth - Universidad de El Salvador
 Componentes:
 - Arduino UNO R3
 - L293D Chipset
